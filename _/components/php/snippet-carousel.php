@@ -11,8 +11,8 @@
 	<section class="carousel-inner">
 		<div class="active item"><img src="images/carousel/social.jpg" alt="picture of social media icons"></div>
 		<div class="item"><img src="images/carousel/carousel-ads.jpg" alt="picture of ad space"></div>
-		<div class="item"><img src="images/carousel/painting_workshop.jpg" alt="Photo of painting_workshop"></div>
-		<div class="item"><img src="images/carousel/pottery_workshop.jpg" alt="Photo of pottery_workshop"></div>
+		<div class="item"><img src="images/carousel/md-web.jpg" alt="Photo of painting_workshop"></div>
+		<div class="item"><img src="images/carousel/jazzcover.jpg" alt="Photo of pottery_workshop"></div>
 		<div class="item"><img src="images/carousel/quicksketch_workshop.jpg" alt="Photo of quicksketch_workshop"></div>
 	</section><!-- carousel-inner -->
 
